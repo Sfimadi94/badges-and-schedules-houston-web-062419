@@ -5,4 +5,4 @@ def badge_maker(name)
   badge
 end
 
-def batch_badge_creator()
+def batch_badge_creator(guests)
