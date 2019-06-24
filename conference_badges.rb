@@ -8,3 +8,5 @@ end
 def batch_badge_creator(guests)
   guests.map {|badges| badge_maker(badges) }
 end
+
+def assign_rooms
